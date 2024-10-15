@@ -20,7 +20,7 @@ con.execute("insert into mark(roll_no,sub,mark)values(1,'cs',75),(1,'che',70),(2
 con.commit()
 
 
-# roll=int(input("Enter roll num"))
+# roll=int(input("Enter roll num"))``
 # name=str(input("Enter name"))
 # age=int(input("Enter age"))
 
